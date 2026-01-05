@@ -1,13 +1,15 @@
 # MLDemo
-## Descrição
-Este repositório contém o código desenvolvido por mim durante o curso **Oracle Cloud Infrastructure AI Foundations**, oferecido pela Oracle.  
-O objetivo do curso foi apresentar os **fundamentos de Inteligência Artificial e Machine Learning**, abordando conceitos como tipos de aprendizado, preparação de dados, treinamento de modelos e avaliação de resultados.
 
-O projeto presente neste repositório é uma **demonstração prática de Machine Learning**, utilizando o clássico **Iris Dataset**, com foco em análise de dados, criação e experimentação de modelos em Python por meio de Jupyter Notebooks.
+## Description
+This repository contains the code developed by me during the **Oracle Cloud Infrastructure AI Foundations** course, offered by Oracle.  
+The purpose of the course was to introduce the **fundamentals of Artificial Intelligence and Machine Learning**, covering topics such as learning paradigms, data preparation, model training, and performance evaluation.
+
+The project included in this repository is a **practical Machine Learning demonstration** using the classic **Iris Dataset**, with a focus on data analysis and building and experimenting with models in Python through Jupyter Notebooks.
 
 ---
 
-## Recursos Utilizados
+## Technologies & Resources Used
+
 - Python  
   ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
@@ -17,5 +19,5 @@ O projeto presente neste repositório é uma **demonstração prática de Machin
 - Machine Learning  
   ![ML](https://img.shields.io/badge/Machine%20Learning-Basics-green)
 
-- Oracle Cloud Infrastructure (conceitos)  
+- Oracle Cloud Infrastructure (concepts)  
   ![OCI](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-red)
